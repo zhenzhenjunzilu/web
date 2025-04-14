@@ -1,0 +1,1 @@
+document.getElementById('app').innerText = '欢迎来到我的导航站点！';
