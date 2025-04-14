@@ -4,4 +4,4 @@ compatibility_date = "2024-04-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "web"
-database_id = "<your-database-id>"
+database_id = "ad8673b0-a6fe-4ea6-a4f5-410d21ceddf3"
